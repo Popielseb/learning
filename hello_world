@@ -9,3 +9,280 @@ drwxrwxr-x 2 spopiel spopiel 4,0K sie 14 11:35 dir2
 -rw-rw-r-- 1 spopiel spopiel   75 sie 14 10:57 hello_world
 -rw-rw-r-- 1 spopiel spopiel   40 sie 14 10:59 README.md
 -rw-rw-r-- 1 spopiel spopiel  262 sie 14 11:05 simplefile
+[?1h=[?25l[H[2J(B[mtop - 21:03:55 up 11 min,  1 user,  load average: 0,09, 0,26, 0,24(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 304 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 230 (B[m[39;49msleeping,(B[m[39;49m[1m   1 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  2,7 (B[m[39;49mus,(B[m[39;49m[1m  0,7 (B[m[39;49msy,(B[m[39;49m[1m  0,3 (B[m[39;49mni,(B[m[39;49m[1m 95,7 (B[m[39;49mid,(B[m[39;49m[1m  0,5 (B[m[39;49mwa,(B[m[39;49m[1m  0,0 (B[m[39;49mhi,(B[m[39;49m[1m  0,0 (B[m[39;49msi,(B[m[39;49m[1m  0,0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+KiB Mem :(B[m[39;49m[1m  8077744 (B[m[39;49mtotal,(B[m[39;49m[1m  4031464 (B[m[39;49mfree,(B[m[39;49m[1m  1873072 (B[m[39;49mused,(B[m[39;49m[1m  2173208 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+KiB Swap:(B[m[39;49m[1m  2343932 (B[m[39;49mtotal,(B[m[39;49m[1m  2343932 (B[m[39;49mfree,(B[m[39;49m[1m        0 (B[m[39;49mused.(B[m[39;49m[1m  6037256 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND     (B[m[39;49m[K
+(B[m 2094 bishops+  20   0 3856340 182624  69012 S   5,9  2,3   0:20.72 gnome-shell (B[m[39;49m[K
+(B[m[1m13725 bishops+  20   0   52540   4380   3676 R   5,9  0,1   0:00.02 top         (B[m[39;49m[K
+(B[m    1 root      20   0  226000   9844   6784 S   0,0  0,1   0:02.17 systemd     (B[m[39;49m[K
+(B[m    2 root      20   0       0      0      0 S   0,0  0,0   0:00.00 kthreadd    (B[m[39;49m[K
+(B[m    3 root      20   0       0      0      0 I   0,0  0,0   0:00.00 kworker/0:0 (B[m[39;49m[K
+(B[m    4 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kworker/0:+ (B[m[39;49m[K
+(B[m    5 root      20   0       0      0      0 I   0,0  0,0   0:00.19 kworker/u1+ (B[m[39;49m[K
+(B[m    6 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 mm_percpu_+ (B[m[39;49m[K
+(B[m    7 root      20   0       0      0      0 S   0,0  0,0   0:00.00 ksoftirqd/0 (B[m[39;49m[K
+(B[m    8 root      20   0       0      0      0 I   0,0  0,0   0:00.21 rcu_sched   (B[m[39;49m[K
+(B[m    9 root      20   0       0      0      0 I   0,0  0,0   0:00.00 rcu_bh      (B[m[39;49m[K
+(B[m   10 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 migration/0 (B[m[39;49m[K
+(B[m   11 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 watchdog/0  (B[m[39;49m[K
+(B[m   12 root      20   0       0      0      0 S   0,0  0,0   0:00.00 cpuhp/0     (B[m[39;49m[K
+(B[m   13 root      20   0       0      0      0 S   0,0  0,0   0:00.00 cpuhp/1     (B[m[39;49m[K
+(B[m   14 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 watchdog/1  (B[m[39;49m[K
+(B[m   15 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 migration/1 (B[m[39;49m[K[H(B[mtop - 21:03:58 up 11 min,  1 user,  load average: 0,08, 0,26, 0,24(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 304 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 230 (B[m[39;49msleeping,(B[m[39;49m[1m   1 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0,2 (B[m[39;49mus,(B[m[39;49m[1m  0,1 (B[m[39;49msy,(B[m[39;49m[1m  0,0 (B[m[39;49mni,(B[m[39;49m[1m 99,7 (B[m[39;49mid,(B[m[39;49m[1m  0,0 (B[m[39;49mwa,(B[m[39;49m[1m  0,0 (B[m[39;49mhi,(B[m[39;49m[1m  0,0 (B[m[39;49msi,(B[m[39;49m[1m  0,0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+KiB Mem :(B[m[39;49m[1m  8077744 (B[m[39;49mtotal,(B[m[39;49m[1m  4032680 (B[m[39;49mfree,(B[m[39;49m[1m  1873776 (B[m[39;49mused,(B[m[39;49m[1m  2171288 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+KiB Swap:(B[m[39;49m[1m  2343932 (B[m[39;49mtotal,(B[m[39;49m[1m  2343932 (B[m[39;49mfree,(B[m[39;49m[1m        0 (B[m[39;49mused.(B[m[39;49m[1m  6038476 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m 2094 bishops+  20   0 3856340 182624  69012 S   0,7  2,3   0:20.74 gnome-shell (B[m[39;49m[K
+(B[m[1m13725 bishops+  20   0   52540   4380   3676 R   0,7  0,1   0:00.04 top         (B[m[39;49m[K
+(B[m  236 root      -2   0       0      0      0 S   0,3  0,0   0:00.09 i915/signa+ (B[m[39;49m[K
+(B[m  950 root      20   0  567132  17240  14116 S   0,3  0,2   0:00.35 NetworkMan+ (B[m[39;49m[K
+(B[m 1960 bishops+  20   0  386400  72796  49820 S   0,3  0,9   0:06.41 Xorg        (B[m[39;49m[K
+(B[m 2563 bishops+  20   0 9322680 596064 142292 S   0,3  7,4   0:27.75 firefox     (B[m[39;49m[K
+(B[m    1 root      20   0  226000   9844   6784 S   0,0  0,1   0:02.17 systemd     (B[m[39;49m[K
+(B[m    2 root      20   0       0      0      0 S   0,0  0,0   0:00.00 kthreadd    (B[m[39;49m[K
+(B[m    3 root      20   0       0      0      0 I   0,0  0,0   0:00.00 kworker/0:0 (B[m[39;49m[K
+(B[m    4 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 kworker/0:+ (B[m[39;49m[K
+(B[m    5 root      20   0       0      0      0 I   0,0  0,0   0:00.19 kworker/u1+ (B[m[39;49m[K
+(B[m    6 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 mm_percpu_+ (B[m[39;49m[K
+(B[m    7 root      20   0       0      0      0 S   0,0  0,0   0:00.00 ksoftirqd/0 (B[m[39;49m[K
+(B[m    8 root      20   0       0      0      0 I   0,0  0,0   0:00.21 rcu_sched   (B[m[39;49m[K
+(B[m    9 root      20   0       0      0      0 I   0,0  0,0   0:00.00 rcu_bh      (B[m[39;49m[K
+(B[m   10 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 migration/0 (B[m[39;49m[K
+(B[m   11 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 watchdog/0  (B[m[39;49m[K[?25l[H(B[mtop - 21:03:58 up 11 min,  1 user,  load average: 0,08, 0,26, 0,24(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 304 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 230 (B[m[39;49msleeping,(B[m[39;49m[1m   1 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0,4 (B[m[39;49mus,(B[m[39;49m[1m  0,8 (B[m[39;49msy,(B[m[39;49m[1m  0,0 (B[m[39;49mni,(B[m[39;49m[1m 98,9 (B[m[39;49mid,(B[m[39;49m[1m  0,0 (B[m[39;49mwa,(B[m[39;49m[1m  0,0 (B[m[39;49mhi,(B[m[39;49m[1m  0,0 (B[m[39;49msi,(B[m[39;49m[1m  0,0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+KiB Mem :(B[m[39;49m[1m  8077744 (B[m[39;49mtotal,(B[m[39;49m[1m  4032680 (B[m[39;49mfree,(B[m[39;49m[1m  1873776 (B[m[39;49mused,(B[m[39;49m[1m  2171288 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+KiB Swap:(B[m[39;49m[1m  2343932 (B[m[39;49mtotal,(B[m[39;49m[1m  2343932 (B[m[39;49mfree,(B[m[39;49m[1m        0 (B[m[39;49mused.(B[m[39;49m[1m  6038476 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND     (B[m[39;49m[K
+(B[m 2563 bishops+  20   0 9322680 596064 142292 S   3,1  7,4   0:27.76 /usr/lib/f+ (B[m[39;49m[K
+(B[m[1m13725 bishops+  20   0   52568   4380   3676 R   3,1  0,1   0:00.05 top         (B[m[39;49m[K
+(B[m    1 root      20   0  226000   9844   6784 S   0,0  0,1   0:02.17 /sbin/init+ (B[m[39;49m[K
+(B[m    2 root      20   0       0      0      0 S   0,0  0,0   0:00.00 [kthreadd]  (B[m[39;49m[K
+(B[m    3 root      20   0       0      0      0 I   0,0  0,0   0:00.00 [kworker/0+ (B[m[39;49m[K
+(B[m    4 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 [kworker/0+ (B[m[39;49m[K
+(B[m    5 root      20   0       0      0      0 I   0,0  0,0   0:00.19 [kworker/u+ (B[m[39;49m[K
+(B[m    6 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 [mm_percpu+ (B[m[39;49m[K
+(B[m    7 root      20   0       0      0      0 S   0,0  0,0   0:00.00 [ksoftirqd+ (B[m[39;49m[K
+(B[m    8 root      20   0       0      0      0 I   0,0  0,0   0:00.21 [rcu_sched] (B[m[39;49m[K
+(B[m    9 root      20   0       0      0      0 I   0,0  0,0   0:00.00 [rcu_bh]    (B[m[39;49m[K
+(B[m   10 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 [migration+ (B[m[39;49m[K
+(B[m   11 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 [watchdog/+ (B[m[39;49m[K
+(B[m   12 root      20   0       0      0      0 S   0,0  0,0   0:00.00 [cpuhp/0]   (B[m[39;49m[K
+(B[m   13 root      20   0       0      0      0 S   0,0  0,0   0:00.00 [cpuhp/1]   (B[m[39;49m[K
+(B[m   14 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 [watchdog/+ (B[m[39;49m[K
+(B[m   15 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 [migration+ (B[m[39;49m[K[6;1H[7m Command disabled, 'A' mode required [?25l(B[m[39;49m[K[?25l[H(B[mtop - 21:03:59 up 11 min,  1 user,  load average: 0,08, 0,26, 0,24(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 304 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 230 (B[m[39;49msleeping,(B[m[39;49m[1m   1 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0,3 (B[m[39;49mus,(B[m[39;49m[1m  0,0 (B[m[39;49msy,(B[m[39;49m[1m  0,0 (B[m[39;49mni,(B[m[39;49m[1m 99,7 (B[m[39;49mid,(B[m[39;49m[1m  0,0 (B[m[39;49mwa,(B[m[39;49m[1m  0,0 (B[m[39;49mhi,(B[m[39;49m[1m  0,0 (B[m[39;49msi,(B[m[39;49m[1m  0,0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+KiB Mem :(B[m[39;49m[1m  8077744 (B[m[39;49mtotal,(B[m[39;49m[1m  4032384 (B[m[39;49mfree,(B[m[39;49m[1m  1874044 (B[m[39;49mused,(B[m[39;49m[1m  2171316 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+KiB Swap:(B[m[39;49m[1m  2343932 (B[m[39;49mtotal,(B[m[39;49m[1m  2343932 (B[m[39;49mfree,(B[m[39;49m[1m        0 (B[m[39;49mused.(B[m[39;49m[1m  6041444 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND     (B[m[39;49m[K
+(B[m[1m13725 bishops+  20   0   52568   4380   3676 R   2,3  0,1   0:00.08 top         (B[m[39;49m[K
+(B[m13349 bishops+  20   0 1668812 112060  83564 S   1,5  1,4   0:00.41 /usr/lib/f+ (B[m[39;49m[K
+(B[m    5 root      20   0       0      0      0 I   0,8  0,0   0:00.20 [kworker/u+ (B[m[39;49m[K
+(B[m 2094 bishops+  20   0 3856340 182624  69012 S   0,8  2,3   0:20.75 /usr/bin/g+ (B[m[39;49m[K
+(B[m 2146 bishops+  20   0  436564   7948   6476 S   0,8  0,1   0:01.26 ibus-daemo+ (B[m[39;49m[K
+(B[m 2382 bishops+  20   0  206104   6876   6232 S   0,8  0,1   0:00.41 /usr/lib/i+ (B[m[39;49m[K
+(B[m13259 bishops+  20   0  677576  57232  33156 S   0,8  0,7   0:01.90 /usr/bin/p+ (B[m[39;49m[K
+(B[m    1 root      20   0  226000   9844   6784 S   0,0  0,1   0:02.17 /sbin/init+ (B[m[39;49m[K
+(B[m    2 root      20   0       0      0      0 S   0,0  0,0   0:00.00 [kthreadd]  (B[m[39;49m[K
+(B[m    3 root      20   0       0      0      0 I   0,0  0,0   0:00.00 [kworker/0+ (B[m[39;49m[K
+(B[m    4 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 [kworker/0+ (B[m[39;49m[K
+(B[m    6 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 [mm_percpu+ (B[m[39;49m[K
+(B[m    7 root      20   0       0      0      0 S   0,0  0,0   0:00.00 [ksoftirqd+ (B[m[39;49m[K
+(B[m    8 root      20   0       0      0      0 I   0,0  0,0   0:00.21 [rcu_sched] (B[m[39;49m[K
+(B[m    9 root      20   0       0      0      0 I   0,0  0,0   0:00.00 [rcu_bh]    (B[m[39;49m[K
+(B[m   10 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 [migration+ (B[m[39;49m[K
+(B[m   11 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 [watchdog/+ (B[m[39;49m[K[?25l[H(B[mtop - 21:03:59 up 11 min,  1 user,  load average: 0,08, 0,26, 0,24(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 304 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 230 (B[m[39;49msleeping,(B[m[39;49m[1m   1 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s): (B[m[39;49m[1m 12,5(B[m[39;49m/12,5 (B[m[39;49m(B[m  25[(B[m[39;49m(B[m[1m|||||||(B[m[39;49m(B[m|||||||(B[m[39;49m(B[m                                       ](B[m[39;49m(B[m[39;49m[K
+KiB Mem :(B[m[39;49m[1m  8077744 (B[m[39;49mtotal,(B[m[39;49m[1m  4032384 (B[m[39;49mfree,(B[m[39;49m[1m  1874044 (B[m[39;49mused,(B[m[39;49m[1m  2171316 (B[m[39;49mbuff/cache(B[m[39;49m(B[m[39;49m[K
+KiB Swap:(B[m[39;49m[1m  2343932 (B[m[39;49mtotal,(B[m[39;49m[1m  2343932 (B[m[39;49mfree,(B[m[39;49m[1m        0 (B[m[39;49mused.(B[m[39;49m[1m  6041444 (B[m[39;49mavail Mem (B[m[39;49m(B[m[39;49m[K
+[K
+[7m  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND     (B[m[39;49m[K
+(B[m    1 root      20   0  226000   9844   6784 S   0,0  0,1   0:02.17 /sbin/init+ (B[m[39;49m[K
+(B[m    2 root      20   0       0      0      0 S   0,0  0,0   0:00.00 [kthreadd]  (B[m[39;49m[K
+(B[m    3 root      20   0       0      0      0 I   0,0  0,0   0:00.00 [kworker/0+ (B[m[39;49m[K
+(B[m    4 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 [kworker/0+ (B[m[39;49m[K
+(B[m    5 root      20   0       0      0      0 I   0,0  0,0   0:00.20 [kworker/u+ (B[m[39;49m[K
+(B[m    6 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 [mm_percpu+ (B[m[39;49m[K
+(B[m    7 root      20   0       0      0      0 S   0,0  0,0   0:00.00 [ksoftirqd+ (B[m[39;49m[K
+(B[m    8 root      20   0       0      0      0 I   0,0  0,0   0:00.21 [rcu_sched] (B[m[39;49m[K
+(B[m    9 root      20   0       0      0      0 I   0,0  0,0   0:00.00 [rcu_bh]    (B[m[39;49m[K
+(B[m   10 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 [migration+ (B[m[39;49m[K
+(B[m   11 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 [watchdog/+ (B[m[39;49m[K
+(B[m   12 root      20   0       0      0      0 S   0,0  0,0   0:00.00 [cpuhp/0]   (B[m[39;49m[K
+(B[m   13 root      20   0       0      0      0 S   0,0  0,0   0:00.00 [cpuhp/1]   (B[m[39;49m[K
+(B[m   14 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 [watchdog/+ (B[m[39;49m[K
+(B[m   15 root      rt   0       0      0      0 S   0,0  0,0   0:00.00 [migration+ (B[m[39;49m[K
+(B[m   16 root      20   0       0      0      0 S   0,0  0,0   0:00.01 [ksoftirqd+ (B[m[39;49m[K
+(B[m   18 root       0 -20       0      0      0 I   0,0  0,0   0:00.00 [kworker/1+ (B[m[39;49m[K[?12;25h[H[2J[1mHelp for Interactive Commands(B[m[39;49m(B[m - procps-ng 3.3.12(B[m[39;49m[K
+(B[mWindow (B[m[39;49m[7m1:Def(B[m[39;49m(B[m: (B[m[39;49mCumulative mode (B[m[39;49m[1mOff(B[m[39;49m(B[m.  (B[m[39;49m[7mSystem(B[m[39;49m(B[m: (B[m[39;49mDelay (B[m[39;49m[1m3,0 secs(B[m[39;49m(B[m; (B[m[39;49mSecure mode (B[m[39;49m[1mOff(B[m[39;49m(B[m.(B[m[39;49m[K
+[K
+[1m  Z(B[m[39;49m(B[m,(B[m[39;49m[1mB(B[m[39;49m(B[m,E,e   Global: '(B[m[39;49m[1mZ(B[m[39;49m(B[m' colors; '(B[m[39;49m[1mB(B[m[39;49m(B[m' bold; '(B[m[39;49m[1mE(B[m[39;49m(B[m'/'(B[m[39;49m[1me(B[m[39;49m(B[m' summary/task memory scale(B[m[39;49m[K
+(B[m  l,t,m     Toggle Summary: '(B[m[39;49m[1ml(B[m[39;49m(B[m' load avg; '(B[m[39;49m[1mt(B[m[39;49m(B[m' task/cpu stats; '(B[m[39;49m[1mm(B[m[39;49m(B[m' memory info(B[m[39;49m[K
+(B[m  0,1,2,3,I Toggle: '(B[m[39;49m[1m0(B[m[39;49m(B[m' zeros; '(B[m[39;49m[1m1(B[m[39;49m(B[m/(B[m[39;49m[1m2(B[m[39;49m(B[m/(B[m[39;49m[1m3(B[m[39;49m(B[m' cpus or numa node views; '(B[m[39;49m[1mI(B[m[39;49m(B[m' Irix mode(B[m[39;49m[K
+(B[m  f,F,X     Fields: '(B[m[39;49m[1mf(B[m[39;49m(B[m'/'(B[m[39;49m[1mF(B[m[39;49m(B[m' add/remove/order/sort; '(B[m[39;49m[1mX(B[m[39;49m(B[m' increase fixed-width(B[m[39;49m[K
+[K
+(B[m  L,&,<,> . Locate: '(B[m[39;49m[1mL(B[m[39;49m(B[m'/'(B[m[39;49m[1m&(B[m[39;49m(B[m' find/again; Move sort column: '(B[m[39;49m[1m<(B[m[39;49m(B[m'/'(B[m[39;49m[1m>(B[m[39;49m(B[m' left/right(B[m[39;49m[K
+(B[m  R,H,V,J . Toggle: '(B[m[39;49m[1mR(B[m[39;49m(B[m' Sort; '(B[m[39;49m[1mH(B[m[39;49m(B[m' Threads; '(B[m[39;49m[1mV(B[m[39;49m(B[m' Forest view; '(B[m[39;49m[1mJ(B[m[39;49m(B[m' Num justify(B[m[39;49m[K
+(B[m  c,i,S,j . Toggle: '(B[m[39;49m[1mc(B[m[39;49m(B[m' Cmd name/line; '(B[m[39;49m[1mi(B[m[39;49m(B[m' Idle; '(B[m[39;49m[1mS(B[m[39;49m(B[m' Time; '(B[m[39;49m[1mj(B[m[39;49m(B[m' Str justify(B[m[39;49m[K
+[1m  x(B[m[39;49m(B[m,(B[m[39;49m[1my(B[m[39;49m(B[m     . Toggle highlights: '(B[m[39;49m[1mx(B[m[39;49m(B[m' sort field; '(B[m[39;49m[1my(B[m[39;49m(B[m' running tasks(B[m[39;49m[K
+[1m  z(B[m[39;49m(B[m,(B[m[39;49m[1mb(B[m[39;49m(B[m     . Toggle: '(B[m[39;49m[1mz(B[m[39;49m(B[m' color/mono; '(B[m[39;49m[1mb(B[m[39;49m(B[m' bold/reverse (only if 'x' or 'y')(B[m[39;49m[K
+(B[m  u,U,o,O . Filter by: '(B[m[39;49m[1mu(B[m[39;49m(B[m'/'(B[m[39;49m[1mU(B[m[39;49m(B[m' effective/any user; '(B[m[39;49m[1mo(B[m[39;49m(B[m'/'(B[m[39;49m[1mO(B[m[39;49m(B[m' other criteria(B[m[39;49m[K
+(B[m  n,#,^O  . Set: '(B[m[39;49m[1mn(B[m[39;49m(B[m'/'(B[m[39;49m[1m#(B[m[39;49m(B[m' max tasks displayed; Show: (B[m[39;49m[1mCtrl(B[m[39;49m(B[m+'(B[m[39;49m[1mO(B[m[39;49m(B[m' other filter(s)(B[m[39;49m[K
+(B[m  C,...   . Toggle scroll coordinates msg for: (B[m[39;49m[1mup(B[m[39;49m(B[m,(B[m[39;49m[1mdown(B[m[39;49m(B[m,(B[m[39;49m[1mleft(B[m[39;49m(B[m,(B[m[39;49m[1mright(B[m[39;49m(B[m,(B[m[39;49m[1mhome(B[m[39;49m(B[m,(B[m[39;49m[1mend(B[m[39;49m[K
+[K
+(B[m  k,r       Manipulate tasks: '(B[m[39;49m[1mk(B[m[39;49m(B[m' kill; '(B[m[39;49m[1mr(B[m[39;49m(B[m' renice(B[m[39;49m[K
+(B[m  d or s    Set update interval(B[m[39;49m[K
+(B[m  W,Y       Write configuration file '(B[m[39;49m[1mW(B[m[39;49m(B[m'; Inspect other output '(B[m[39;49m[1mY(B[m[39;49m(B[m'(B[m[39;49m[K
+(B[m  q         Quit(B[m[39;49m[K
+(B[m          ( commands shown with '.' require a (B[m[39;49m[1mvisible(B[m[39;49m(B[m task display (B[m[39;49m[1mwindow(B[m[39;49m(B[m ) (B[m[39;49m[K
+(B[mPress '(B[m[39;49m[1mh(B[m[39;49m(B[m' or '(B[m[39;49m[1m?(B[m[39;49m(B[m' for help with (B[m[39;49m[1mWindows(B[m[39;49m(B[m,(B[m[39;49m[K
+Type 'q' or <Esc> to continue [J[H[2J[1mHelp for Interactive Commands(B[m[39;49m(B[m - procps-ng 3.3.12(B[m[39;49m[K
+(B[mWindow (B[m[39;49m[7m1:Def(B[m[39;49m(B[m: (B[m[39;49mCumulative mode (B[m[39;49m[1mOff(B[m[39;49m(B[m.  (B[m[39;49m[7mSystem(B[m[39;49m(B[m: (B[m[39;49mDelay (B[m[39;49m[1m3,0 secs(B[m[39;49m(B[m; (B[m[39;49mSecure mode (B[m[39;49m[1mOff(B[m[39;49m(B[m.(B[m[39;49m[K
+[K
+[1m  Z(B[m[39;49m(B[m,(B[m[39;49m[1mB(B[m[39;49m(B[m,E,e   Global: '(B[m[39;49m[1mZ(B[m[39;49m(B[m' colors; '(B[m[39;49m[1mB(B[m[39;49m(B[m' bold; '(B[m[39;49m[1mE(B[m[39;49m(B[m'/'(B[m[39;49m[1me(B[m[39;49m(B[m' summary/task memory scale(B[m[39;49m[K
+(B[m  l,t,m     Toggle Summary: '(B[m[39;49m[1ml(B[m[39;49m(B[m' load avg; '(B[m[39;49m[1mt(B[m[39;49m(B[m' task/cpu stats; '(B[m[39;49m[1mm(B[m[39;49m(B[m' memory info(B[m[39;49m[K
+(B[m  0,1,2,3,I Toggle: '(B[m[39;49m[1m0(B[m[39;49m(B[m' zeros; '(B[m[39;49m[1m1(B[m[39;49m(B[m/(B[m[39;49m[1m2(B[m[39;49m(B[m/(B[m[39;49m[1m3(B[m[39;49m(B[m' cpus or numa node views; '(B[m[39;49m[1mI(B[m[39;49m(B[m' Irix mode(B[m[39;49m[K
+(B[m  f,F,X     Fields: '(B[m[39;49m[1mf(B[m[39;49m(B[m'/'(B[m[39;49m[1mF(B[m[39;49m(B[m' add/remove/order/sort; '(B[m[39;49m[1mX(B[m[39;49m(B[m' increase fixed-width(B[m[39;49m[K
+[K
+(B[m  L,&,<,> . Locate: '(B[m[39;49m[1mL(B[m[39;49m(B[m'/'(B[m[39;49m[1m&(B[m[39;49m(B[m' find/again; Move sort column: '(B[m[39;49m[1m<(B[m[39;49m(B[m'/'(B[m[39;49m[1m>(B[m[39;49m(B[m' left/right(B[m[39;49m[K
+(B[m  R,H,V,J . Toggle: '(B[m[39;49m[1mR(B[m[39;49m(B[m' Sort; '(B[m[39;49m[1mH(B[m[39;49m(B[m' Threads; '(B[m[39;49m[1mV(B[m[39;49m(B[m' Forest view; '(B[m[39;49m[1mJ(B[m[39;49m(B[m' Num justify(B[m[39;49m[K
+(B[m  c,i,S,j . Toggle: '(B[m[39;49m[1mc(B[m[39;49m(B[m' Cmd name/line; '(B[m[39;49m[1mi(B[m[39;49m(B[m' Idle; '(B[m[39;49m[1mS(B[m[39;49m(B[m' Time; '(B[m[39;49m[1mj(B[m[39;49m(B[m' Str justify(B[m[39;49m[K
+[1m  x(B[m[39;49m(B[m,(B[m[39;49m[1my(B[m[39;49m(B[m     . Toggle highlights: '(B[m[39;49m[1mx(B[m[39;49m(B[m' sort field; '(B[m[39;49m[1my(B[m[39;49m(B[m' running tasks(B[m[39;49m[K
+[1m  z(B[m[39;49m(B[m,(B[m[39;49m[1mb(B[m[39;49m(B[m     . Toggle: '(B[m[39;49m[1mz(B[m[39;49m(B[m' color/mono; '(B[m[39;49m[1mb(B[m[39;49m(B[m' bold/reverse (only if 'x' or 'y')(B[m[39;49m[K
+(B[m  u,U,o,O . Filter by: '(B[m[39;49m[1mu(B[m[39;49m(B[m'/'(B[m[39;49m[1mU(B[m[39;49m(B[m' effective/any user; '(B[m[39;49m[1mo(B[m[39;49m(B[m'/'(B[m[39;49m[1mO(B[m[39;49m(B[m' other criteria(B[m[39;49m[K
+(B[m  n,#,^O  . Set: '(B[m[39;49m[1mn(B[m[39;49m(B[m'/'(B[m[39;49m[1m#(B[m[39;49m(B[m' max tasks displayed; Show: (B[m[39;49m[1mCtrl(B[m[39;49m(B[m+'(B[m[39;49m[1mO(B[m[39;49m(B[m' other filter(s)(B[m[39;49m[K
+(B[m  C,...   . Toggle scroll coordinates msg for: (B[m[39;49m[1mup(B[m[39;49m(B[m,(B[m[39;49m[1mdown(B[m[39;49m(B[m,(B[m[39;49m[1mleft(B[m[39;49m(B[m,(B[m[39;49m[1mright(B[m[39;49m(B[m,(B[m[39;49m[1mhome(B[m[39;49m(B[m,(B[m[39;49m[1mend(B[m[39;49m[K
+[K
+(B[m  k,r       Manipulate tasks: '(B[m[39;49m[1mk(B[m[39;49m(B[m' kill; '(B[m[39;49m[1mr(B[m[39;49m(B[m' renice(B[m[39;49m[K
+(B[m  d or s    Set update interval(B[m[39;49m[K
+(B[m  W,Y       Write configuration file '(B[m[39;49m[1mW(B[m[39;49m(B[m'; Inspect other output '(B[m[39;49m[1mY(B[m[39;49m(B[m'(B[m[39;49m[K
+(B[m  q         Quit(B[m[39;49m[K
+(B[m          ( commands shown with '.' require a (B[m[39;49m[1mvisible(B[m[39;49m(B[m task display (B[m[39;49m[1mwindow(B[m[39;49m(B[m ) (B[m[39;49m[K
+(B[mPress '(B[m[39;49m[1mh(B[m[39;49m(B[m' or '(B[m[39;49m[1m?(B[m[39;49m(B[m' for help with (B[m[39;49m[1mWindows(B[m[39;49m(B[m,(B[m[39;49m[K
+Type 'q' or <Esc> to continue [J[H[2J[1mHelp for Interactive Commands(B[m[39;49m(B[m - procps-ng 3.3.12(B[m[39;49m[K
+(B[mWindow (B[m[39;49m[7m1:Def(B[m[39;49m(B[m: (B[m[39;49mCumulative mode (B[m[39;49m[1mOff(B[m[39;49m(B[m.  (B[m[39;49m[7mSystem(B[m[39;49m(B[m: (B[m[39;49mDelay (B[m[39;49m[1m3,0 secs(B[m[39;49m(B[m; (B[m[39;49mSecure mode (B[m[39;49m[1mOff(B[m[39;49m(B[m.(B[m[39;49m[K
+[K
+[1m  Z(B[m[39;49m(B[m,(B[m[39;49m[1mB(B[m[39;49m(B[m,E,e   Global: '(B[m[39;49m[1mZ(B[m[39;49m(B[m' colors; '(B[m[39;49m[1mB(B[m[39;49m(B[m' bold; '(B[m[39;49m[1mE(B[m[39;49m(B[m'/'(B[m[39;49m[1me(B[m[39;49m(B[m' summary/task memory scale(B[m[39;49m[K
+(B[m  l,t,m     Toggle Summary: '(B[m[39;49m[1ml(B[m[39;49m(B[m' load avg; '(B[m[39;49m[1mt(B[m[39;49m(B[m' task/cpu stats; '(B[m[39;49m[1mm(B[m[39;49m(B[m' memory info(B[m[39;49m[K
+(B[m  0,1,2,3,I Toggle: '(B[m[39;49m[1m0(B[m[39;49m(B[m' zeros; '(B[m[39;49m[1m1(B[m[39;49m(B[m/(B[m[39;49m[1m2(B[m[39;49m(B[m/(B[m[39;49m[1m3(B[m[39;49m(B[m' cpus or numa node views; '(B[m[39;49m[1mI(B[m[39;49m(B[m' Irix mode(B[m[39;49m[K
+(B[m  f,F,X     Fields: '(B[m[39;49m[1mf(B[m[39;49m(B[m'/'(B[m[39;49m[1mF(B[m[39;49m(B[m' add/remove/order/sort; '(B[m[39;49m[1mX(B[m[39;49m(B[m' increase fixed-width(B[m[39;49m[K
+[K
+(B[m  L,&,<,> . Locate: '(B[m[39;49m[1mL(B[m[39;49m(B[m'/'(B[m[39;49m[1m&(B[m[39;49m(B[m' find/again; Move sort column: '(B[m[39;49m[1m<(B[m[39;49m(B[m'/'(B[m[39;49m[1m>(B[m[39;49m(B[m' left/right(B[m[39;49m[K
+(B[m  R,H,V,J . Toggle: '(B[m[39;49m[1mR(B[m[39;49m(B[m' Sort; '(B[m[39;49m[1mH(B[m[39;49m(B[m' Threads; '(B[m[39;49m[1mV(B[m[39;49m(B[m' Forest view; '(B[m[39;49m[1mJ(B[m[39;49m(B[m' Num justify(B[m[39;49m[K
+(B[m  c,i,S,j . Toggle: '(B[m[39;49m[1mc(B[m[39;49m(B[m' Cmd name/line; '(B[m[39;49m[1mi(B[m[39;49m(B[m' Idle; '(B[m[39;49m[1mS(B[m[39;49m(B[m' Time; '(B[m[39;49m[1mj(B[m[39;49m(B[m' Str justify(B[m[39;49m[K
+[1m  x(B[m[39;49m(B[m,(B[m[39;49m[1my(B[m[39;49m(B[m     . Toggle highlights: '(B[m[39;49m[1mx(B[m[39;49m(B[m' sort field; '(B[m[39;49m[1my(B[m[39;49m(B[m' running tasks(B[m[39;49m[K
+[1m  z(B[m[39;49m(B[m,(B[m[39;49m[1mb(B[m[39;49m(B[m     . Toggle: '(B[m[39;49m[1mz(B[m[39;49m(B[m' color/mono; '(B[m[39;49m[1mb(B[m[39;49m(B[m' bold/reverse (only if 'x' or 'y')(B[m[39;49m[K
+(B[m  u,U,o,O . Filter by: '(B[m[39;49m[1mu(B[m[39;49m(B[m'/'(B[m[39;49m[1mU(B[m[39;49m(B[m' effective/any user; '(B[m[39;49m[1mo(B[m[39;49m(B[m'/'(B[m[39;49m[1mO(B[m[39;49m(B[m' other criteria(B[m[39;49m[K
+(B[m  n,#,^O  . Set: '(B[m[39;49m[1mn(B[m[39;49m(B[m'/'(B[m[39;49m[1m#(B[m[39;49m(B[m' max tasks displayed; Show: (B[m[39;49m[1mCtrl(B[m[39;49m(B[m+'(B[m[39;49m[1mO(B[m[39;49m(B[m' other filter(s)(B[m[39;49m[K
+(B[m  C,...   . Toggle scroll coordinates msg for: (B[m[39;49m[1mup(B[m[39;49m(B[m,(B[m[39;49m[1mdown(B[m[39;49m(B[m,(B[m[39;49m[1mleft(B[m[39;49m(B[m,(B[m[39;49m[1mright(B[m[39;49m(B[m,(B[m[39;49m[1mhome(B[m[39;49m(B[m,(B[m[39;49m[1mend(B[m[39;49m[K
+[K
+(B[m  k,r       Manipulate tasks: '(B[m[39;49m[1mk(B[m[39;49m(B[m' kill; '(B[m[39;49m[1mr(B[m[39;49m(B[m' renice(B[m[39;49m[K
+(B[m  d or s    Set update interval(B[m[39;49m[K
+(B[m  W,Y       Write configuration file '(B[m[39;49m[1mW(B[m[39;49m(B[m'; Inspect other output '(B[m[39;49m[1mY(B[m[39;49m(B[m'(B[m[39;49m[K
+(B[m  q         Quit(B[m[39;49m[K
+(B[m          ( commands shown with '.' require a (B[m[39;49m[1mvisible(B[m[39;49m(B[m task display (B[m[39;49m[1mwindow(B[m[39;49m(B[m ) (B[m[39;49m[K
+(B[mPress '(B[m[39;49m[1mh(B[m[39;49m(B[m' or '(B[m[39;49m[1m?(B[m[39;49m(B[m' for help with (B[m[39;49m[1mWindows(B[m[39;49m(B[m,(B[m[39;49m[K
+Type 'q' or <Esc> to continue [J[H[2J[1mHelp for Interactive Commands(B[m[39;49m(B[m - procps-ng 3.3.12(B[m[39;49m[K
+(B[mWindow (B[m[39;49m[7m1:Def(B[m[39;49m(B[m: (B[m[39;49mCumulative mode (B[m[39;49m[1mOff(B[m[39;49m(B[m.  (B[m[39;49m[7mSystem(B[m[39;49m(B[m: (B[m[39;49mDelay (B[m[39;49m[1m3,0 secs(B[m[39;49m(B[m; (B[m[39;49mSecure mode (B[m[39;49m[1mOff(B[m[39;49m(B[m.(B[m[39;49m[K
+[K
+[1m  Z(B[m[39;49m(B[m,(B[m[39;49m[1mB(B[m[39;49m(B[m,E,e   Global: '(B[m[39;49m[1mZ(B[m[39;49m(B[m' colors; '(B[m[39;49m[1mB(B[m[39;49m(B[m' bold; '(B[m[39;49m[1mE(B[m[39;49m(B[m'/'(B[m[39;49m[1me(B[m[39;49m(B[m' summary/task memory scale(B[m[39;49m[K
+(B[m  l,t,m     Toggle Summary: '(B[m[39;49m[1ml(B[m[39;49m(B[m' load avg; '(B[m[39;49m[1mt(B[m[39;49m(B[m' task/cpu stats; '(B[m[39;49m[1mm(B[m[39;49m(B[m' memory info(B[m[39;49m[K
+(B[m  0,1,2,3,I Toggle: '(B[m[39;49m[1m0(B[m[39;49m(B[m' zeros; '(B[m[39;49m[1m1(B[m[39;49m(B[m/(B[m[39;49m[1m2(B[m[39;49m(B[m/(B[m[39;49m[1m3(B[m[39;49m(B[m' cpus or numa node views; '(B[m[39;49m[1mI(B[m[39;49m(B[m' Irix mode(B[m[39;49m[K
+(B[m  f,F,X     Fields: '(B[m[39;49m[1mf(B[m[39;49m(B[m'/'(B[m[39;49m[1mF(B[m[39;49m(B[m' add/remove/order/sort; '(B[m[39;49m[1mX(B[m[39;49m(B[m' increase fixed-width(B[m[39;49m[K
+[K
+(B[m  L,&,<,> . Locate: '(B[m[39;49m[1mL(B[m[39;49m(B[m'/'(B[m[39;49m[1m&(B[m[39;49m(B[m' find/again; Move sort column: '(B[m[39;49m[1m<(B[m[39;49m(B[m'/'(B[m[39;49m[1m>(B[m[39;49m(B[m' left/right(B[m[39;49m[K
+(B[m  R,H,V,J . Toggle: '(B[m[39;49m[1mR(B[m[39;49m(B[m' Sort; '(B[m[39;49m[1mH(B[m[39;49m(B[m' Threads; '(B[m[39;49m[1mV(B[m[39;49m(B[m' Forest view; '(B[m[39;49m[1mJ(B[m[39;49m(B[m' Num justify(B[m[39;49m[K
+(B[m  c,i,S,j . Toggle: '(B[m[39;49m[1mc(B[m[39;49m(B[m' Cmd name/line; '(B[m[39;49m[1mi(B[m[39;49m(B[m' Idle; '(B[m[39;49m[1mS(B[m[39;49m(B[m' Time; '(B[m[39;49m[1mj(B[m[39;49m(B[m' Str justify(B[m[39;49m[K
+[1m  x(B[m[39;49m(B[m,(B[m[39;49m[1my(B[m[39;49m(B[m     . Toggle highlights: '(B[m[39;49m[1mx(B[m[39;49m(B[m' sort field; '(B[m[39;49m[1my(B[m[39;49m(B[m' running tasks(B[m[39;49m[K
+[1m  z(B[m[39;49m(B[m,(B[m[39;49m[1mb(B[m[39;49m(B[m     . Toggle: '(B[m[39;49m[1mz(B[m[39;49m(B[m' color/mono; '(B[m[39;49m[1mb(B[m[39;49m(B[m' bold/reverse (only if 'x' or 'y')(B[m[39;49m[K
+(B[m  u,U,o,O . Filter by: '(B[m[39;49m[1mu(B[m[39;49m(B[m'/'(B[m[39;49m[1mU(B[m[39;49m(B[m' effective/any user; '(B[m[39;49m[1mo(B[m[39;49m(B[m'/'(B[m[39;49m[1mO(B[m[39;49m(B[m' other criteria(B[m[39;49m[K
+(B[m  n,#,^O  . Set: '(B[m[39;49m[1mn(B[m[39;49m(B[m'/'(B[m[39;49m[1m#(B[m[39;49m(B[m' max tasks displayed; Show: (B[m[39;49m[1mCtrl(B[m[39;49m(B[m+'(B[m[39;49m[1mO(B[m[39;49m(B[m' other filter(s)(B[m[39;49m[K
+(B[m  C,...   . Toggle scroll coordinates msg for: (B[m[39;49m[1mup(B[m[39;49m(B[m,(B[m[39;49m[1mdown(B[m[39;49m(B[m,(B[m[39;49m[1mleft(B[m[39;49m(B[m,(B[m[39;49m[1mright(B[m[39;49m(B[m,(B[m[39;49m[1mhome(B[m[39;49m(B[m,(B[m[39;49m[1mend(B[m[39;49m[K
+[K
+(B[m  k,r       Manipulate tasks: '(B[m[39;49m[1mk(B[m[39;49m(B[m' kill; '(B[m[39;49m[1mr(B[m[39;49m(B[m' renice(B[m[39;49m[K
+(B[m  d or s    Set update interval(B[m[39;49m[K
+(B[m  W,Y       Write configuration file '(B[m[39;49m[1mW(B[m[39;49m(B[m'; Inspect other output '(B[m[39;49m[1mY(B[m[39;49m(B[m'(B[m[39;49m[K
+(B[m  q         Quit(B[m[39;49m[K
+(B[m          ( commands shown with '.' require a (B[m[39;49m[1mvisible(B[m[39;49m(B[m task display (B[m[39;49m[1mwindow(B[m[39;49m(B[m ) (B[m[39;49m[K
+(B[mPress '(B[m[39;49m[1mh(B[m[39;49m(B[m' or '(B[m[39;49m[1m?(B[m[39;49m(B[m' for help with (B[m[39;49m[1mWindows(B[m[39;49m(B[m,(B[m[39;49m[K
+Type 'q' or <Esc> to continue [J[H[2J[1mHelp for Interactive Commands(B[m[39;49m(B[m - procps-ng 3.3.12(B[m[39;49m[K
+(B[mWindow (B[m[39;49m[7m1:Def(B[m[39;49m(B[m: (B[m[39;49mCumulative mode (B[m[39;49m[1mOff(B[m[39;49m(B[m.  (B[m[39;49m[7mSystem(B[m[39;49m(B[m: (B[m[39;49mDelay (B[m[39;49m[1m3,0 secs(B[m[39;49m(B[m; (B[m[39;49mSecure mode (B[m[39;49m[1mOff(B[m[39;49m(B[m.(B[m[39;49m[K
+[K
+[1m  Z(B[m[39;49m(B[m,(B[m[39;49m[1mB(B[m[39;49m(B[m,E,e   Global: '(B[m[39;49m[1mZ(B[m[39;49m(B[m' colors; '(B[m[39;49m[1mB(B[m[39;49m(B[m' bold; '(B[m[39;49m[1mE(B[m[39;49m(B[m'/'(B[m[39;49m[1me(B[m[39;49m(B[m' summary/task memory scale(B[m[39;49m[K
+(B[m  l,t,m     Toggle Summary: '(B[m[39;49m[1ml(B[m[39;49m(B[m' load avg; '(B[m[39;49m[1mt(B[m[39;49m(B[m' task/cpu stats; '(B[m[39;49m[1mm(B[m[39;49m(B[m' memory info(B[m[39;49m[K
+(B[m  0,1,2,3,I Toggle: '(B[m[39;49m[1m0(B[m[39;49m(B[m' zeros; '(B[m[39;49m[1m1(B[m[39;49m(B[m/(B[m[39;49m[1m2(B[m[39;49m(B[m/(B[m[39;49m[1m3(B[m[39;49m(B[m' cpus or numa node views; '(B[m[39;49m[1mI(B[m[39;49m(B[m' Irix mode(B[m[39;49m[K
+(B[m  f,F,X     Fields: '(B[m[39;49m[1mf(B[m[39;49m(B[m'/'(B[m[39;49m[1mF(B[m[39;49m(B[m' add/remove/order/sort; '(B[m[39;49m[1mX(B[m[39;49m(B[m' increase fixed-width(B[m[39;49m[K
+[K
+(B[m  L,&,<,> . Locate: '(B[m[39;49m[1mL(B[m[39;49m(B[m'/'(B[m[39;49m[1m&(B[m[39;49m(B[m' find/again; Move sort column: '(B[m[39;49m[1m<(B[m[39;49m(B[m'/'(B[m[39;49m[1m>(B[m[39;49m(B[m' left/right(B[m[39;49m[K
+(B[m  R,H,V,J . Toggle: '(B[m[39;49m[1mR(B[m[39;49m(B[m' Sort; '(B[m[39;49m[1mH(B[m[39;49m(B[m' Threads; '(B[m[39;49m[1mV(B[m[39;49m(B[m' Forest view; '(B[m[39;49m[1mJ(B[m[39;49m(B[m' Num justify(B[m[39;49m[K
+(B[m  c,i,S,j . Toggle: '(B[m[39;49m[1mc(B[m[39;49m(B[m' Cmd name/line; '(B[m[39;49m[1mi(B[m[39;49m(B[m' Idle; '(B[m[39;49m[1mS(B[m[39;49m(B[m' Time; '(B[m[39;49m[1mj(B[m[39;49m(B[m' Str justify(B[m[39;49m[K
+[1m  x(B[m[39;49m(B[m,(B[m[39;49m[1my(B[m[39;49m(B[m     . Toggle highlights: '(B[m[39;49m[1mx(B[m[39;49m(B[m' sort field; '(B[m[39;49m[1my(B[m[39;49m(B[m' running tasks(B[m[39;49m[K
+[1m  z(B[m[39;49m(B[m,(B[m[39;49m[1mb(B[m[39;49m(B[m     . Toggle: '(B[m[39;49m[1mz(B[m[39;49m(B[m' color/mono; '(B[m[39;49m[1mb(B[m[39;49m(B[m' bold/reverse (only if 'x' or 'y')(B[m[39;49m[K
+(B[m  u,U,o,O . Filter by: '(B[m[39;49m[1mu(B[m[39;49m(B[m'/'(B[m[39;49m[1mU(B[m[39;49m(B[m' effective/any user; '(B[m[39;49m[1mo(B[m[39;49m(B[m'/'(B[m[39;49m[1mO(B[m[39;49m(B[m' other criteria(B[m[39;49m[K
+(B[m  n,#,^O  . Set: '(B[m[39;49m[1mn(B[m[39;49m(B[m'/'(B[m[39;49m[1m#(B[m[39;49m(B[m' max tasks displayed; Show: (B[m[39;49m[1mCtrl(B[m[39;49m(B[m+'(B[m[39;49m[1mO(B[m[39;49m(B[m' other filter(s)(B[m[39;49m[K
+(B[m  C,...   . Toggle scroll coordinates msg for: (B[m[39;49m[1mup(B[m[39;49m(B[m,(B[m[39;49m[1mdown(B[m[39;49m(B[m,(B[m[39;49m[1mleft(B[m[39;49m(B[m,(B[m[39;49m[1mright(B[m[39;49m(B[m,(B[m[39;49m[1mhome(B[m[39;49m(B[m,(B[m[39;49m[1mend(B[m[39;49m[K
+[K
+(B[m  k,r       Manipulate tasks: '(B[m[39;49m[1mk(B[m[39;49m(B[m' kill; '(B[m[39;49m[1mr(B[m[39;49m(B[m' renice(B[m[39;49m[K
+(B[m  d or s    Set update interval(B[m[39;49m[K
+(B[m  W,Y       Write configuration file '(B[m[39;49m[1mW(B[m[39;49m(B[m'; Inspect other output '(B[m[39;49m[1mY(B[m[39;49m(B[m'(B[m[39;49m[K
+(B[m  q         Quit(B[m[39;49m[K
+(B[m          ( commands shown with '.' require a (B[m[39;49m[1mvisible(B[m[39;49m(B[m task display (B[m[39;49m[1mwindow(B[m[39;49m(B[m ) (B[m[39;49m[K
+(B[mPress '(B[m[39;49m[1mh(B[m[39;49m(B[m' or '(B[m[39;49m[1m?(B[m[39;49m(B[m' for help with (B[m[39;49m[1mWindows(B[m[39;49m(B[m,(B[m[39;49m[K
+Type 'q' or <Esc> to continue [J[H[2J[1mHelp for Interactive Commands(B[m[39;49m(B[m - procps-ng 3.3.12(B[m[39;49m[K
+(B[mWindow (B[m[39;49m[7m1:Def(B[m[39;49m(B[m: (B[m[39;49mCumulative mode (B[m[39;49m[1mOff(B[m[39;49m(B[m.  (B[m[39;49m[7mSystem(B[m[39;49m(B[m: (B[m[39;49mDelay (B[m[39;49m[1m3,0 secs(B[m[39;49m(B[m; (B[m[39;49mSecure mode (B[m[39;49m[1mOff(B[m[39;49m(B[m.(B[m[39;49m[K
+[K
+[1m  Z(B[m[39;49m(B[m,(B[m[39;49m[1mB(B[m[39;49m(B[m,E,e   Global: '(B[m[39;49m[1mZ(B[m[39;49m(B[m' colors; '(B[m[39;49m[1mB(B[m[39;49m(B[m' bold; '(B[m[39;49m[1mE(B[m[39;49m(B[m'/'(B[m[39;49m[1me(B[m[39;49m(B[m' summary/task memory scale(B[m[39;49m[K
+(B[m  l,t,m     Toggle Summary: '(B[m[39;49m[1ml(B[m[39;49m(B[m' load avg; '(B[m[39;49m[1mt(B[m[39;49m(B[m' task/cpu stats; '(B[m[39;49m[1mm(B[m[39;49m(B[m' memory info(B[m[39;49m[K
+(B[m  0,1,2,3,I Toggle: '(B[m[39;49m[1m0(B[m[39;49m(B[m' zeros; '(B[m[39;49m[1m1(B[m[39;49m(B[m/(B[m[39;49m[1m2(B[m[39;49m(B[m/(B[m[39;49m[1m3(B[m[39;49m(B[m' cpus or numa node views; '(B[m[39;49m[1mI(B[m[39;49m(B[m' Irix mode(B[m[39;49m[K
+(B[m  f,F,X     Fields: '(B[m[39;49m[1mf(B[m[39;49m(B[m'/'(B[m[39;49m[1mF(B[m[39;49m(B[m' add/remove/order/sort; '(B[m[39;49m[1mX(B[m[39;49m(B[m' increase fixed-width(B[m[39;49m[K
+[K
+(B[m  L,&,<,> . Locate: '(B[m[39;49m[1mL(B[m[39;49m(B[m'/'(B[m[39;49m[1m&(B[m[39;49m(B[m' find/again; Move sort column: '(B[m[39;49m[1m<(B[m[39;49m(B[m'/'(B[m[39;49m[1m>(B[m[39;49m(B[m' left/right(B[m[39;49m[K
+(B[m  R,H,V,J . Toggle: '(B[m[39;49m[1mR(B[m[39;49m(B[m' Sort; '(B[m[39;49m[1mH(B[m[39;49m(B[m' Threads; '(B[m[39;49m[1mV(B[m[39;49m(B[m' Forest view; '(B[m[39;49m[1mJ(B[m[39;49m(B[m' Num justify(B[m[39;49m[K
+(B[m  c,i,S,j . Toggle: '(B[m[39;49m[1mc(B[m[39;49m(B[m' Cmd name/line; '(B[m[39;49m[1mi(B[m[39;49m(B[m' Idle; '(B[m[39;49m[1mS(B[m[39;49m(B[m' Time; '(B[m[39;49m[1mj(B[m[39;49m(B[m' Str justify(B[m[39;49m[K
+[1m  x(B[m[39;49m(B[m,(B[m[39;49m[1my(B[m[39;49m(B[m     . Toggle highlights: '(B[m[39;49m[1mx(B[m[39;49m(B[m' sort field; '(B[m[39;49m[1my(B[m[39;49m(B[m' running tasks(B[m[39;49m[K
+[1m  z(B[m[39;49m(B[m,(B[m[39;49m[1mb(B[m[39;49m(B[m     . Toggle: '(B[m[39;49m[1mz(B[m[39;49m(B[m' color/mono; '(B[m[39;49m[1mb(B[m[39;49m(B[m' bold/reverse (only if 'x' or 'y')(B[m[39;49m[K
+(B[m  u,U,o,O . Filter by: '(B[m[39;49m[1mu(B[m[39;49m(B[m'/'(B[m[39;49m[1mU(B[m[39;49m(B[m' effective/any user; '(B[m[39;49m[1mo(B[m[39;49m(B[m'/'(B[m[39;49m[1mO(B[m[39;49m(B[m' other criteria(B[m[39;49m[K
+(B[m  n,#,^O  . Set: '(B[m[39;49m[1mn(B[m[39;49m(B[m'/'(B[m[39;49m[1m#(B[m[39;49m(B[m' max tasks displayed; Show: (B[m[39;49m[1mCtrl(B[m[39;49m(B[m+'(B[m[39;49m[1mO(B[m[39;49m(B[m' other filter(s)(B[m[39;49m[K
+(B[m  C,...   . Toggle scroll coordinates msg for: (B[m[39;49m[1mup(B[m[39;49m(B[m,(B[m[39;49m[1mdown(B[m[39;49m(B[m,(B[m[39;49m[1mleft(B[m[39;49m(B[m,(B[m[39;49m[1mright(B[m[39;49m(B[m,(B[m[39;49m[1mhome(B[m[39;49m(B[m,(B[m[39;49m[1mend(B[m[39;49m[K
+[K
+(B[m  k,r       Manipulate tasks: '(B[m[39;49m[1mk(B[m[39;49m(B[m' kill; '(B[m[39;49m[1mr(B[m[39;49m(B[m' renice(B[m[39;49m[K
+(B[m  d or s    Set update interval(B[m[39;49m[K
+(B[m  W,Y       Write configuration file '(B[m[39;49m[1mW(B[m[39;49m(B[m'; Inspect other output '(B[m[39;49m[1mY(B[m[39;49m(B[m'(B[m[39;49m[K
+(B[m  q         Quit(B[m[39;49m[K
+(B[m          ( commands shown with '.' require a (B[m[39;49m[1mvisible(B[m[39;49m(B[m task display (B[m[39;49m[1mwindow(B[m[39;49m(B[m ) (B[m[39;49m[K
+(B[mPress '(B[m[39;49m[1mh(B[m[39;49m(B[m' or '(B[m[39;49m[1m?(B[m[39;49m(B[m' for help with (B[m[39;49m[1mWindows(B[m[39;49m(B[m,(B[m[39;49m[K
+Type 'q' or <Esc> to continue [J[H[2J[1mHelp for Interactive Commands(B[m[39;49m(B[m - procps-ng 3.3.12(B[m[39;49m[K
+(B[mWindow (B[m[39;49m[7m1:Def(B[m[39;49m(B[m: (B[m[39;49mCumulative mode (B[m[39;49m[1mOff(B[m[39;49m(B[m.  (B[m[39;49m[7mSystem(B[m[39;49m(B[m: (B[m[39;49mDelay (B[m[39;49m[1m3,0 secs(B[m[39;49m(B[m; (B[m[39;49mSecure mode (B[m[39;49m[1mOff(B[m[39;49m(B[m.(B[m[39;49m[K
+[K
+[1m  Z(B[m[39;49m(B[m,(B[m[39;49m[1mB(B[m[39;49m(B[m,E,e   Global: '(B[m[39;49m[1mZ(B[m[39;49m(B[m' colors; '(B[m[39;49m[1mB(B[m[39;49m(B[m' bold; '(B[m[39;49m[1mE(B[m[39;49m(B[m'/'(B[m[39;49m[1me(B[m[39;49m(B[m' summary/task memory scale(B[m[39;49m[K
+(B[m  l,t,m     Toggle Summary: '(B[m[39;49m[1ml(B[m[39;49m(B[m' load avg; '(B[m[39;49m[1mt(B[m[39;49m(B[m' task/cpu stats; '(B[m[39;49m[1mm(B[m[39;49m(B[m' memory info(B[m[39;49m[K
+(B[m  0,1,2,3,I Toggle: '(B[m[39;49m[1m0(B[m[39;49m(B[m' zeros; '(B[m[39;49m[1m1(B[m[39;49m(B[m/(B[m[39;49m[1m2(B[m[39;49m(B[m/(B[m[39;49m[1m3(B[m[39;49m(B[m' cpus or numa node views; '(B[m[39;49m[1mI(B[m[39;49m(B[m' Irix mode(B[m[39;49m[K
+(B[m  f,F,X     Fields: '(B[m[39;49m[1mf(B[m[39;49m(B[m'/'(B[m[39;49m[1mF(B[m[39;49m(B[m' add/remove/order/sort; '(B[m[39;49m[1mX(B[m[39;49m(B[m' increase fixed-width(B[m[39;49m[K
+[K
+(B[m  L,&,<,> . Locate: '(B[m[39;49m[1mL(B[m[39;49m(B[m'/'(B[m[39;49m[1m&(B[m[39;49m(B[m' find/again; Move sort column: '(B[m[39;49m[1m<(B[m[39;49m(B[m'/'(B[m[39;49m[1m>(B[m[39;49m(B[m' left/right(B[m[39;49m[K
+(B[m  R,H,V,J . Toggle: '(B[m[39;49m[1mR(B[m[39;49m(B[m' Sort; '(B[m[39;49m[1mH(B[m[39;49m(B[m' Threads; '(B[m[39;49m[1mV(B[m[39;49m(B[m' Forest view; '(B[m[39;49m[1mJ(B[m[39;49m(B[m' Num justify(B[m[39;49m[K
+(B[m  c,i,S,j . Toggle: '(B[m[39;49m[1mc(B[m[39;49m(B[m' Cmd name/line; '(B[m[39;49m[1mi(B[m[39;49m(B[m' Idle; '(B[m[39;49m[1mS(B[m[39;49m(B[m' Time; '(B[m[39;49m[1mj(B[m[39;49m(B[m' Str justify(B[m[39;49m[K
+[1m  x(B[m[39;49m(B[m,(B[m[39;49m[1my(B[m[39;49m(B[m     . Toggle highlights: '(B[m[39;49m[1mx(B[m[39;49m(B[m' sort field; '(B[m[39;49m[1my(B[m[39;49m(B[m' running tasks(B[m[39;49m[K
+[1m  z(B[m[39;49m(B[m,(B[m[39;49m[1mb(B[m[39;49m(B[m     . Toggle: '(B[m[39;49m[1mz(B[m[39;49m(B[m' color/mono; '(B[m[39;49m[1mb(B[m[39;49m(B[m' bold/reverse (only if 'x' or 'y')(B[m[39;49m[K
+(B[m  u,U,o,O . Filter by: '(B[m[39;49m[1mu(B[m[39;49m(B[m'/'(B[m[39;49m[1mU(B[m[39;49m(B[m' effective/any user; '(B[m[39;49m[1mo(B[m[39;49m(B[m'/'(B[m[39;49m[1mO(B[m[39;49m(B[m' other criteria(B[m[39;49m[K
+(B[m  n,#,^O  . Set: '(B[m[39;49m[1mn(B[m[39;49m(B[m'/'(B[m[39;49m[1m#(B[m[39;49m(B[m' max tasks displayed; Show: (B[m[39;49m[1mCtrl(B[m[39;49m(B[m+'(B[m[39;49m[1mO(B[m[39;49m(B[m' other filter(s)(B[m[39;49m[K
+(B[m  C,...   . Toggle scroll coordinates msg for: (B[m[39;49m[1mup(B[m[39;49m(B[m,(B[m[39;49m[1mdown(B[m[39;49m(B[m,(B[m[39;49m[1mleft(B[m[39;49m(B[m,(B[m[39;49m[1mright(B[m[39;49m(B[m,(B[m[39;49m[1mhome(B[m[39;49m(B[m,(B[m[39;49m[1mend(B[m[39;49m[K
+[K
+(B[m  k,r       Manipulate tasks: '(B[m[39;49m[1mk(B[m[39;49m(B[m' kill; '(B[m[39;49m[1mr(B[m[39;49m(B[m' renice(B[m[39;49m[K
+(B[m  d or s    Set update interval(B[m[39;49m[K
+(B[m  W,Y       Write configuration file '(B[m[39;49m[1mW(B[m[39;49m(B[m'; Inspect other output '(B[m[39;49m[1mY(B[m[39;49m(B[m'(B[m[39;49m[K
+(B[m  q         Quit(B[m[39;49m[K
+(B[m          ( commands shown with '.' require a (B[m[39;49m[1mvisible(B[m[39;49m(B[m task display (B[m[39;49m[1mwindow(B[m[39;49m(B[m ) (B[m[39;49m[K
+(B[mPress '(B[m[39;49m[1mh(B[m[39;49m(B[m' or '(B[m[39;49m[1m?(B[m[39;49m(B[m' for help with (B[m[39;49m[1mWindows(B[m[39;49m(B[m,(B[m[39;49m[K
+Type 'q' or <Esc> to continue [J[?1l>[25;1H[?12l[?25h
