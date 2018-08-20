@@ -9,3 +9,8 @@ drwxrwxr-x 2 spopiel spopiel 4,0K sie 14 11:35 dir2
 -rw-rw-r-- 1 spopiel spopiel   75 sie 14 10:57 hello_world
 -rw-rw-r-- 1 spopiel spopiel   40 sie 14 10:59 README.md
 -rw-rw-r-- 1 spopiel spopiel  262 sie 14 11:05 simplefile
+total 16
+drwxrwxr-x 2 spopiel spopiel 4096 sie 20 11:37 dir2
+-rw-rw-r-- 1 spopiel spopiel  363 sie 20 11:37 hello_world
+-rw-rw-r-- 1 spopiel spopiel  954 sie 20 11:37 README.md
+-rw-rw-r-- 1 spopiel spopiel  262 sie 20 11:37 simplefile
